@@ -12,9 +12,9 @@ This project demonstrates inter-process communication using System V message que
 
 ### Compile the Programs
 
-gcc -o server server.c -lpthread
-gcc -o client1 client1.c -lpthread
-gcc -o client2 client2.c -lpthread
+- gcc -o server server.c -lpthread
+- gcc -o client1 client1.c -lpthread
+- gcc -o client2 client2.c -lpthread
 
 ## How It Works
 
