@@ -10,7 +10,7 @@ This project demonstrates inter-process communication using System V message que
 
 ## Screenshots
 
-<img align="left" src="main.png" width="20%" height="20%">
+<img src="terminal_picture.png" width="20%" height="20%">
 
 ## Compilation and Execution
 
