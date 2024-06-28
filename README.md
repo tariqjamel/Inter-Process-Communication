@@ -8,6 +8,10 @@ This project demonstrates inter-process communication using System V message que
 - `client1.c`: Implements Client 1 which sends messages to the server and receives messages from Client 2.
 - `client2.c`: Implements Client 2 which sends messages to the server and receives messages from Client 1.
 
+## Screenshots
+
+<img align="left" src="main.png" width="20%" height="20%">
+
 ## Compilation and Execution
 
 ### Compile the Programs
@@ -49,3 +53,8 @@ This project demonstrates inter-process communication using System V message que
 - A POSIX-compliant operating system (e.g., Linux).
 - GCC compiler.
 - Basic understanding of inter-process communication in C.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug fixes, or feature implementations, please submit a pull request.
+
